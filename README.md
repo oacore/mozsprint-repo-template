@@ -1,20 +1,17 @@
+
+# CORE@Mozilla Global Sprint 2017
+CORE’s mission is to aggregate all open access research outputs from repositories and journals worldwide and make them available to the public. In this way CORE facilitates free unrestricted access to research for all.
+We are currently making avaialble 70 million of research outputs metadata and 7 million full text papers. 
+We are looking for devs, designers, data scientists enthusiastic about facilitating the access to research to the world, we are offering a set of APIs and a dataset ready to be used and exploited as you like.
+
 ![CORE logo](https://core.ac.uk/images/dab7dee.png "CORE logo")
 
-# [ Project Title ]
-
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
-
-[ If you have one, add your logo or an image here ]
-
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
-
 ## Getting Started
+We have APIs (ttp://core.ac.uk/about#apis) and a dataset ready to be use to access our content. Head to the issues [link] session to see what are the possible scenarios we are suggesting, or contact us to suggest a new one.
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
 
 ## Contributing
-
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Have a look at (https://github.com/oacore/or2016-api-demo)[our API demo], to have a quickstart guide on how to use the APIs in python. read more in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Participation Guidelines
 
