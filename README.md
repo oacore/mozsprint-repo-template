@@ -1,5 +1,6 @@
 
 # CORE@Mozilla Global Sprint 2017
+
 CORE’s mission is to aggregate all open access research outputs from repositories and journals worldwide and make them available to the public. In this way CORE facilitates free unrestricted access to research for all.
 We are currently making avaialble 70 million of research outputs metadata and 7 million full text papers. 
 We are looking for devs, designers, data scientists enthusiastic about facilitating the access to research to the world, we are offering a set of APIs and a dataset ready to be used and exploited as you like.
@@ -7,11 +8,13 @@ We are looking for devs, designers, data scientists enthusiastic about facilitat
 ![CORE logo](https://core.ac.uk/images/dab7dee.png "CORE logo")
 
 ## Getting Started
-We have [APIs](https://core.ac.uk/about#apis) and a [dataset](https://core.ac.uk/about#dataset) ready to be used to access our content. Head to the [issues](/issues) session to see what are the possible scenarios we are suggesting, or contact us to suggest a new one.
+
+We have [APIs](https://core.ac.uk/about#apis) and a [dataset](https://core.ac.uk/about#dataset) ready to be used to access our content. Head to the [issues](/issues) page to see what are the possible scenarios we are suggesting or feel free to add your own ideas.
 
 
 ## Contributing
-Have a look at (https://github.com/oacore/or2016-api-demo)[our API demo], to have a quickstart guide on how to use the APIs in python. read more in [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Have a look at [our API demo](https://github.com/oacore/or2016-api-demo), to have a quickstart guide on how to use the APIs in python. read more in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Participation Guidelines
 
