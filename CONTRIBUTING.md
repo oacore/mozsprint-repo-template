@@ -1,14 +1,14 @@
-# Contributing to [Project]
+# Contributing to CORE @ Mozilla Global Sprint 2017
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Thank you for your interest! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+CORE is aggregating 70 million research outputs and 7 million full text, we need your help to unleash the power of Open Access :)
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+We are looking for developer, data scientists, text miners, designers and testers to exploit as much as you want our dataset and APIs to increase the use and the visibility of Open Access in the world.
+We have a list of ideas in the [issues](../../issues) section to get you started. Feel free to add more and more ideas to the issue tracker if you want.
+In the following weeks we will continue making the issues growing with content and ideas.
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This documents is a set of guidelines for contributing to CORE @ Mozilla Global Sprint 2017 on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
@@ -24,11 +24,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
-
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
 
 ## How to submit changes
 
