@@ -1,6 +1,8 @@
 
 # CORE@Mozilla Global Sprint 2017
 
+[![Join the chat at https://gitter.im/oacore-mozsprint17/Lobby](https://badges.gitter.im/oacore-mozsprint17/Lobby.svg)](https://gitter.im/oacore-mozsprint17/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 CORE’s mission is to aggregate all open access research outputs from repositories and journals worldwide and make them available to the public. In this way CORE facilitates free unrestricted access to research for all.
 We are currently making avaialble 70 million of research outputs metadata and 7 million full text papers. 
 We are looking for devs, designers, data scientists enthusiastic about facilitating the access to research to the world, we are offering a set of APIs and a dataset ready to be used and exploited as you like.
