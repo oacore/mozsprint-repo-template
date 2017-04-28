@@ -1,3 +1,5 @@
+![CORE logo](https://core.ac.uk/images/dab7dee.png "CORE logo")
+
 # [ Project Title ]
 
 [ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
