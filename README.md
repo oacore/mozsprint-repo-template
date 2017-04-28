@@ -7,7 +7,7 @@ We are looking for devs, designers, data scientists enthusiastic about facilitat
 ![CORE logo](https://core.ac.uk/images/dab7dee.png "CORE logo")
 
 ## Getting Started
-We have APIs (ttp://core.ac.uk/about#apis) and a dataset ready to be use to access our content. Head to the issues [link] session to see what are the possible scenarios we are suggesting, or contact us to suggest a new one.
+We have [APIs](https://core.ac.uk/about#apis) and a [dataset](https://core.ac.uk/about#dataset) ready to be used to access our content. Head to the [issues](/issues) session to see what are the possible scenarios we are suggesting, or contact us to suggest a new one.
 
 
 ## Contributing
