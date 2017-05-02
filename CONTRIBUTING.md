@@ -37,9 +37,9 @@ If the APIs and the dataset are not enough please contact us we will try our bes
 
 ## How to submit changes
 
-> 1. **Add/Comment to the issue you're working on** If you have a new idea you're working on please add it as an issue so we can keep track of it.
-> 2. **Link** the Github repository where your code is.
-> 3. ** Contact us** for any question or help needed in using our code.
+1. **Add/Comment to the issue you're working on** If you have a new idea you're working on please add it as an issue so we can keep track of it.
+2. **Link** the Github repository where your code is.
+3. **Contact us** for any question or help needed in using our code.
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
