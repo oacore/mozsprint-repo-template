@@ -13,7 +13,7 @@ In the following weeks we will continue making the issues growing with content a
 If your guide is long, consider adding a table of contents.
 
 * [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
+* [What we're working on](#what-were-looking-for)
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
@@ -22,30 +22,32 @@ If your guide is long, consider adding a table of contents.
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
-## What we're working on
+## How can you contribute?
+We have plenty of ideas to work on, some of them are just a sentence or two and some of them are more detailed. If you head to [issues](../../issues) you will see some of them. 
+There are many ways to contribute:
 
+- if you are a developer in any language please help us build clients for our APIs. 
+
+- if you are a machine learning specialist please use our dataset to create your models about any aspect of research.
+- if you are data scientist you can get helpful insights on how the research world works. [This](https://blog.core.ac.uk/2016/10/21/analysing-orcid-coverage-across-repositories-through-core/) is for example our analysis of the uptake of ORCID identifiers in the world.
+- if you find any bug, please help us collect them and improve our data and the access to it.
+
+We are always welcome new ideas, feel free to add your own ideas directly in the issues.
+If the APIs and the dataset are not enough please contact us we will try our best to offer you all the data we have available.
 
 ## How to submit changes
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
-
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
- 
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+> 1. **Add/Comment to the issue you're working on** If you have a new idea you're working on please add it as an issue so we can keep track of it.
+> 2. **Link** the Github repository where your code is.
+> 3. ** Contact us** for any question or help needed in using our code.
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 ## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+We are well aware that aggregating 70 million research papers raise a lot of inconsistencies and possible conflict. If you spot any of this, please report it to our issue tracker here [issue tracker](../../issues), We will try to address the issue as soon as possible.
 
 ## Communication channels
-
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+We have a gitter chat ready for this sprint. 
+[![Join the chat at https://gitter.im/oacore-mozsprint17/Lobby](https://badges.gitter.im/oacore-mozsprint17/Lobby.svg)](https://gitter.im/oacore-mozsprint17/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)]
+You can also contact us [here](mailto:matteo.cancellieri@open.ac.uk) if you want to contact us by email.
 
