@@ -12,7 +12,7 @@ In the following weeks we will be adding more content and ideas in the issues se
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mailto:matteo.cancellieri@open.ac.uk].
 
-## How can you contribute?
+## How to contribute?
 We have plenty of ideas to work on, some of them are just a sentence or two and some of them are more detailed. If you head to [issues](../../issues) section you will see some of them. 
 There are many ways to contribute:
 
@@ -23,6 +23,71 @@ There are many ways to contribute:
 
 We always welcome new ideas, feel free to add your own ideas directly to the [issues](../../issues) section.
 If the APIs and the dataset are not enough please contact us and we will try our best to offer you all the data we have available.
+
+## Where to start
+We have two ways to access all the CORE content. The CORE APIs give you access to all our content in a fresh way. If you want to analyse our data in bulk please use the CORE dataset.
+### CORE API
+Please register [here](https://core.ac.uk/api-keys/register) to receive an API key and start testing the [live examples](https://core.ac.uk/docs/).
+A good starting point to start coding with our API is to follow this [iPython notebook](/oacore/or2016-api-demo).
+In collaboration with [rOpenSci](https://ropensci.org/) you can also find [here](/ropenscilabs/cored) an R client for the CORE API.
+
+### CORE Dataset
+You can get the latest CORE dataset from [here](https://core.ac.uk/dataset/getdatadump). 
+There are two different section in our dataset the metadata and the fulltext part.
+The following is an example of how the metadata is structured in the dataset.
+```json
+{
+    "identifier": 13291,
+    "ep:Repository": 1,
+    "dc:type": [
+        "Report"
+    ],
+    "bibo:shortTitle": "Evaluating stillbirths : improving stillbirth data could help make stillbirths a visible public health priority",
+    "bibo:AuthorList": [
+        "IMMPACT",
+        "Population Reference Bureau"
+    ],
+    "dc:date": "2007-02",
+    "bibo:cites": [
+        {
+            "rawReferenceText": "Cynthia Stanton. Stillbirth Rates: Delivering Estimates",
+            "authors": [
+
+            ],
+            "bibo:shortTitle": "Stillbirth Rates: Delivering Estimates",
+            "doi": "10.1016/S0140-6736(06)68586-3"
+        }
+    ],
+    "bibo:citedBy": [
+
+    ],
+    "similarities": [
+        {
+            "identifier": 29886,
+            "sim:weight": 0.333121,
+            "sim:AssociationMethod": "similarity_cosine"
+        },
+        {
+            "identifier": 33044,
+            "sim:weight": 0.325861,
+            "sim:AssociationMethod": "similarity_cosine"
+        },
+        ...,
+        {
+            "identifier": 43755,
+            "sim:weight": 0.173635,
+            "sim:AssociationMethod": "similarity_cosine"
+        }
+    ]
+}
+```
+This one is how the fulltext looks like:
+```json
+{
+  "identifier":612,
+  "fullTextSource":"Here goes the fulltext ..."
+}
+```
 
 ## How to submit changes
 
