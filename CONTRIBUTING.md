@@ -25,15 +25,15 @@ We always welcome new ideas, feel free to add your own ideas directly to the [is
 If the APIs and the dataset are not enough please contact us and we will try our best to offer you all the data we have available.
 
 ## Where to start
-We have two ways to access all the CORE content. The CORE APIs give you access to all our content in a fresh way. If you want to analyse our data in bulk please use the CORE dataset.
-### CORE API
+There are two ways to access all the CORE content. The CORE APIs give you access to fresh content. If you want to analyse our data in bulk please use the CORE dataset.
+### Where to start with the CORE API
 Please register [here](https://core.ac.uk/api-keys/register) to receive an API key and start testing the [live examples](https://core.ac.uk/docs/).
-A good starting point to start coding with our API is to follow this [iPython notebook](/oacore/or2016-api-demo).
-In collaboration with [rOpenSci](https://ropensci.org/) you can also find [here](/ropenscilabs/cored) an R client for the CORE API.
+A good starting point with our APIs is to follow this [iPython notebook](/oacore/or2016-api-demo).
+You can find an R client for the CORE API done in collaboration with [rOpenSci](https://ropensci.org/) [here](/ropenscilabs/cored).
 
-### CORE Dataset
+### Where to start with the CORE Dataset
 You can get the latest CORE dataset from [here](https://core.ac.uk/dataset/getdatadump). 
-There are two different section in our dataset the metadata and the fulltext part.
+There are two different sections in our dataset; the metadata and full text.
 The following is an example of how the metadata is structured in the dataset.
 ```json
 {
@@ -81,7 +81,7 @@ The following is an example of how the metadata is structured in the dataset.
     ]
 }
 ```
-This one is how the fulltext looks like:
+This one is how full text looks like:
 ```json
 {
   "identifier":612,
