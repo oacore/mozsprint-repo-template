@@ -11,7 +11,7 @@ We are looking for devs, designers, data scientists enthusiastic about facilitat
 
 ## Getting Started
 
-We have [APIs](https://core.ac.uk/about#apis) and a [dataset](https://core.ac.uk/about#dataset) ready to be used to access our content. Head to the [issues](/issues) page to see what are the possible scenarios we are suggesting or feel free to add your own ideas.
+We have [APIs](https://core.ac.uk/about#apis) and a [dataset](https://core.ac.uk/about#dataset) ready to be used to access our content. Head to the [issues](../../issues) page to see what are the possible scenarios we are suggesting or feel free to add your own ideas.
 
 
 ## Contributing
